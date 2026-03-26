@@ -1,6 +1,6 @@
 # 首次推送到 GitHub（vpn-saas-reseller）
 
-若当前代码在 **monorepo** 内（路径如 **`2.0/php/B`**），要推送 **整个仓库** 时请参阅仓库根目录 **`GITHUB_PUSH.md`**。
+若当前代码在本仓库 **`sites/B`**（或历史路径 **`2.0/php/B`**），要推送 **整个 monorepo** 时请参阅该仓库根目录的 **`GITHUB_PUSH.md`**（若有）。
 
 ---
 

@@ -202,7 +202,7 @@ class OrderController extends Controller
             'biz_order_no' => (string) Str::ulid(),
             'amount_cents' => $amountCents,
             'currency' => $product->currency,
-            'region' => $data['region'] ?: null,
+            'region' => ($data['region'] ?? null) ?: null,
             'duration_months' => $periodOrDayCount,
             'sslvpn_username' => $data['sslvpn_username'] ?? null,
             'sslvpn_password' => $data['sslvpn_password'] ?? null,

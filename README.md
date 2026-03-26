@@ -4,7 +4,7 @@
 
 独立 Laravel 应用：终端用户选购、订单、已购产品；分销商配置产品与查看数据。**API Key 由 A 站签发，经 A 站 API 校验，不在 B 站伪造存储。** 单独部署一台服务器，Web 根目录指向 `public/`。
 
-本目录在 monorepo 中位于 **`2.0/php/B`**；与 A 站 **`2.0/php/A`** 版本需配套升级。推送到 **单独 GitHub 仓库** 的步骤见 **`docs/GITHUB_PUSH.md`**；整仓推送见仓库根目录 **`GITHUB_PUSH.md`**。
+本仓库中路径为 **`sites/B`**（与历史 monorepo 路径 **`2.0/php/B`** 对应）；与 A 站 **`sites/A`**（或 **`2.0/php/A`**）版本需配套升级。推送到 **单独 GitHub 仓库** 的步骤见 **`docs/GITHUB_PUSH.md`**；整仓推送见仓库根目录 **`GITHUB_PUSH.md`**（若有）。
 
 ## 功能概览
 
