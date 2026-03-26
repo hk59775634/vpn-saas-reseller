@@ -34,7 +34,7 @@
 ### 1. 获取代码
 
 ```bash
-git clone https://github.com/<你的用户名>/vpn-saas-reseller.git
+git clone https://github.com/hk59775634/vpn-saas-reseller.git
 cd vpn-saas-reseller
 ```
 
